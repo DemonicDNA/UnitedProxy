@@ -1,0 +1,11 @@
+incoming:
+    protocol: tcp
+    type: server
+    port: 1591
+
+outgoing:
+    protocol: tcp
+    type: client
+    hosts:
+       - localhost:1991
+       - localhost:1992
