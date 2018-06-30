@@ -4,8 +4,6 @@ import com.esotericsoftware.kryonet.Listener;
 import com.esotericsoftware.kryonet.Server;
 
 import java.io.IOException;
-import java.lang.instrument.Instrumentation;
-import java.lang.instrument.Instrumentation;
 
 public class TestMainServer {
 
